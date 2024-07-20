@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "images": "images/aa-1.jpg",
+    "title": "Z Flip Foldable Mobile",
+    "price": 120
+  },
+  {
+    "id": 1,
+    "images": "images/ee-3.jpg",
+    "title": "Air Pods Pro",
+    "price": 60
+  },
+  {
+    "id": 2,
+    "images": "images/gg-1.jpg",
+    "title": "250D DSLR Camera",
+    "price": 230
+  },
+  {
+    "id": 3,
+    "images": "images/hh-2.jpg",
+    "title": "Head Phones",
+    "price": 100
+  }
+]
